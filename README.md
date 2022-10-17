@@ -1,1 +1,2 @@
 # PermianBasin_Statistical_Report
+This project was completed within a span of four months. The data was collected from reliable government sources like census.gov, St.Louis Fred, TxDot. I have mostly used Microsoft Excel for both preparing the data and my analysis. Aside from the I have also used SQL, and R program for some of my analysis. For Data Visualization, I have again mostly used Excel while also making use of Tableau and ggplot (R program) in some instances. Please check Presentation.pptx powerpoint for the full report.
